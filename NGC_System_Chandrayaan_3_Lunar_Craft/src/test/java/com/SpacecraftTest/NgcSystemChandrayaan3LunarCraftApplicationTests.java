@@ -1,4 +1,4 @@
-package com.SpringPractice2;
+package com.SpacecraftTest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
